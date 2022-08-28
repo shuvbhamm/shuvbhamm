@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shuvbhamm
-- 👀 I’m interested in probllem solving skills
+- 👀 I’m interested in problem solving skills
 - 🌱 I’m currently learning C++ and FrontEnd Web Development
 - 📫 How to reach me :
 - Linkedin : shubham---prasad
