@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @shuvbhamm
 - 👀 I’m interested in problem solving skills
 - 🌱 I’m currently learning C++ and FrontEnd Web Development
-- 📫 How to reach me :
-- Linkedin : shubham---prasad
-- Instagram : shuvbhamm
+- 📫 How to reach me : https://linktr.ee/shuvbhamm
 - Email : shubhamprasad773@gmail.com
 <!---
 shuvbhamm/shuvbhamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
