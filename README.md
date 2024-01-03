@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @shuvbhamm
-- 👀 I’m interested in problem solving skills
-- 🌱 I’m currently learning C++ and FrontEnd Web Development
-- 📫 How to reach me : https://linktr.ee/shuvbhamm
-- Email : shubhamprasad773@gmail.com
-<!---
-shuvbhamm/shuvbhamm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Heyy Hackers, This is Shubham Prasad👋🏼</h3>
+<h4 align="center">I am the one who is in both UI/UX and Frontend Dev 🧑🏼‍💻</h4>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvbhamm&theme=nightowl&show_icons=true&hide_border=true&count_private=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvbhamm&theme=nightowl&hide_border=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvbhamm&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
+</div>
