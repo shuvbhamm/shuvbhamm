@@ -17,3 +17,6 @@
 <a target="_blank" href = "https://www.linkedin.com/in/shubham---prasad/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/shuvbhamm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a target="_blank" href = "https://behance.net/shubhamprasadblog/"><img src="https://img.icons8.com/color/48/behance.png"/></a>
+
+## Languages Shubham Most Used :
+![shuvbhamm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvbhamm&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
